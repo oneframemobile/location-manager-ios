@@ -7,7 +7,7 @@
 #
 
 Pod::Spec.new do |s|
-s.name         = 'LocationManager@Kocsistem'
+s.name         = 'LocationManager@Oneframe'
 s.version      = '1.6.2'
 s.summary      = 'KocSistem LocationManager framework'
 s.description  = 'A description of LocationManager Library'
